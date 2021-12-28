@@ -1,3 +1,3 @@
-<h1>HeadFirst: Python<br>
+## HeadFirst: Python<br>
   
-  <p>Repo of my HeadFirst: Python work by chapter.</p>
+HeadFirst: Python work by chapter that I completed.
