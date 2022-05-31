@@ -1,3 +1,4 @@
 ## HeadFirst: Python<br>
   
-HeadFirst: Python work by chapter that I completed.
+Projects from Head First's Python book.
+
