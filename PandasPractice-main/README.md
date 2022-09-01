@@ -1,2 +1,2 @@
 # Pandas practice exercises
-The Pandas Exercise for TTS DS Fundamentals Class
+Pandas exercises from the TTS Data Science course.
